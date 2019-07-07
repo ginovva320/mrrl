@@ -9,15 +9,15 @@ label {
 }
 
 .rarity-3 label {
-    color: purple;
+    color: #a335ee;
 }
 
 .rarity-2 label {
-    color: blue;
+    color: #0070dd;
 }
 
 .rarity-1 label {
-    color: green;
+    color: #15b500;
 }
 
 .rarity-0 label {

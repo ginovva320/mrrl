@@ -47,8 +47,7 @@ const App: React.FC = () => {
                         renderItem={step => (
                             <List.Item>
                                 <List.Item.Meta
-                                    avatar={<Avatar
-                                        src="https://orig00.deviantart.net/26a3/f/2015/021/d/5/murloc_avatar__12_by_colare-d8etv4m.png"/>}
+                                    avatar={<Avatar src="/murloc.png"/>}
                                     title={step.vendor}
                                     description={`Buy ${step.quantity}x ${step.item}`}
                                 />
